@@ -1,0 +1,7 @@
+# 测试用api
+###
+GET localhost:8080/api/crud/timeReview/test
+
+# 获取redis中存储的信息
+###
+GET localhost:8080/api/crud/timeReview/test/info
